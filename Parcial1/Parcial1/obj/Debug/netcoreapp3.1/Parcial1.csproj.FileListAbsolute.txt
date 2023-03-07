@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.exe
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.deps.json
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.runtimeconfig.dev.json
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.dll
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\bin\Debug\netcoreapp3.1\Parcial1.pdb
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.dll
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.pdb
+C:\Users\MINEDUCYT\Desktop\Parcial1\Parcial1\obj\Debug\netcoreapp3.1\Parcial1.genruntimeconfig.cache
